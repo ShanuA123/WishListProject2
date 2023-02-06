@@ -30,6 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 ### All required features gif.
 <img src='https://github.com/ShanuA123/WishListProject2/blob/master/PROJECT2_GIF.gif'/>
+Clickable link feature showen gif.
 <img src='https://github.com/ShanuA123/WishListProject2/blob/master/PROJECT_2_LINK_GIF.gif'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
